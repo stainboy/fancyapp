@@ -1,0 +1,26 @@
+{
+  "name": "fancyapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stainboy/fancyapp.git"
+  },
+  "keywords": [
+    "fancy",
+    "app"
+  ],
+  "author": "Miles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stainboy/fancyapp/issues"
+  },
+  "homepage": "https://github.com/stainboy/fancyapp#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
